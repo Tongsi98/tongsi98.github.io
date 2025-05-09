@@ -4,3 +4,12 @@ description: "Assistant Professor of Computer Science and Math"
 baseurl: ""
 url: "https://tongsi98.github.io"
 theme: minima
+collections:
+  pages:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
