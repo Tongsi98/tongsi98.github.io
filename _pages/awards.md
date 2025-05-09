@@ -1,32 +1,18 @@
 ---
 layout: page
-title: "Teaching, Service, and Awards"
+title: "Service and Awards"
 permalink: /awards/
 ---
 
-## 🎓 Teaching
+##Service
 
-- **Teaching Certificate** — Saint Louis University  
-  *Sept. 2024*
-
-- **Teaching Assistant**, [STAT 4870 Applied Regression](https://mathstat.slu.edu/academics/courses/stat4870)  
-  *Spring 2024*
-
-- **Teaching Assistant**, [STAT 4880 Bayesian Statistics and Statistical Computing](https://mathstat.slu.edu/academics/courses/stat4880)  
-  *Fall 2023*
-
-- **Instructor**, [MATH 1200 College Algebra](https://mathstat.slu.edu/academics/courses/math1200)  
-  *Fall 2022, Spring 2022*
-
-- **Teaching Assistant**, [MATH 1510 Calculus I](https://mathstat.slu.edu/academics/courses/math1510)  
-  *Fall 2021*
-
----
-
-## 🧰 Service
+- **Students' advisor**, Culver-Stockton College
+  *Aug.2024 - May. 2025*
 
 - **Research Assistant**, Dr. Gong’s Group, Saint Louis University  
-  *Jan. 2023 – Present*
+  *Jan. 2023 – Aug. 2024*
+
+- **NSF Review Panelist** *(2024 - Present)
 
 - **Reviewer** for academic journals *(2021 – Present)*:
   - BMC Bioinformatics  
@@ -35,6 +21,8 @@ permalink: /awards/
   - Heliyon  
   - Journal of Theoretical Biology  
   - Genomics  
+  - ScientificReport
+  - Statistica Sinica
   - ...
 
 - **Treasurer**, Association for Women in Mathematics (AWM), SLU  
