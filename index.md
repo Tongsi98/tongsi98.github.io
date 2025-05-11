@@ -9,7 +9,7 @@ permalink: /
 
 **Ph.D. in Statistics | M.A. in Mathematics | Assistant Professor**
 
-![My Photo](/assets/photo.png)
+![My Photo](/assets/headshot.jpg)
 
 [ Download My CV](/assets/tongCV2025.pdf)  
 [ LinkedIn](https://www.linkedin.com/in/tong-si-562937291/)  
