@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Teaching Experience
 
-###Culver-Stockton College (Aug. 2024 – Present)
+### Culver-Stockton College (Aug. 2024 – Present)
 
 **Assistant Professor of Computer Science & Math**
 
