@@ -3,7 +3,7 @@ layout: page
 title: "Publications and Presentations"
 permalink: /publications/
 ---
-
+{% include navigation.html %}
 ##  Peer-Reviewed Journal Papers
 
 1. **Zhongyuan Zhao**, Peng Zou, Yuan Fang, **Tong Si**, Bofang Yi, Tao Zhang.  
@@ -55,22 +55,6 @@ permalink: /publications/
 10. **Tong Si**.  
     *Missing Value Imputation and Change-Point Detection in High-Dimensional Data*.  
     Ph.D. Dissertation, Saint Louis University (2024).
-
----
-
-##  Manuscripts Under Review
-
-11. Noor Al Hammadi, Andrew J. Aschenbrenner, David C. Brown, Yiqi Zhu, Matthew Blake, Semere Bekena,  
-    Ramkrishna K. Singh, Johathan P. Williams, Chen Chen, **Tong Si**, Jean-Francois Trani, David B. Carr,  
-    Ramon Cassanova, Jason J. Hassenstab, Ganesh M. Babulal.  
-    *Driving Toward Early Detection of Cognitive Decline: A Novel CNN-LSTM Model Integrating Driving Data and Cognitive Assessments*.  
-    Submitted to *NEJM AI* (2025).
-
-12. Noor Al Hammadi, Andrew J. Aschenbrenner, David C. Brown, Yiqi Zhu, Matthew Blake, Semere Bekena,  
-    Ramkrishna K. Singh, Johathan P. Williams, Chen Chen, **Tong Si**, Jean-Francois Trani, David B. Carr,  
-    Ramon Cassanova, Jason J. Hassenstab, Ganesh M. Babulal.  
-    *Precision Detection of Cognitive Fluctuations Through Driving-Derived Digital Markers: A Deep Learning Approach*.  
-    Submitted to *The Lancet* (2025).
 
 ---
 

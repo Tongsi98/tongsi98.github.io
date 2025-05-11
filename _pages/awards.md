@@ -3,7 +3,7 @@ layout: page
 title: "Service and Awards"
 permalink: /awards/
 ---
-
+{% include navigation.html %}
 ## Service
 
 - **Students' advisor**, Culver-Stockton College

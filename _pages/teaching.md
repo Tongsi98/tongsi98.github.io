@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 permalink: /teaching/
 ---
-
+{% include navigation.html %}
 ## Teaching Experience
 
 ### Culver-Stockton College (Aug. 2024 – Present)
