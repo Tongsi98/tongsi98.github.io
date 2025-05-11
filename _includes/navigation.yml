@@ -1,0 +1,7 @@
+<nav style="background-color: #f5f5f5; padding: 1rem; border-bottom: 1px solid #ddd; text-align: center;">
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url }}" style="margin: 0 1.5rem; text-decoration: none; font-weight: 500; color: #000;">
+      {{ item.title }}
+    </a>
+  {% endfor %}
+</nav>
