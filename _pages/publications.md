@@ -3,7 +3,7 @@ layout: page
 title: "Publications and Presentations"
 permalink: /publications/
 ---
-{% include navigation.html %}
+
 ##  Peer-Reviewed Journal Papers
 
 1. **Zhongyuan Zhao**, Peng Zou, Yuan Fang, **Tong Si**, Bofang Yi, Tao Zhang.  
