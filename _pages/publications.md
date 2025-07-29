@@ -8,7 +8,7 @@ permalink: /publications/
 
 1. Lingling Zhang, Yunge Wang, **Tong Si**, Lucas Koch, Sarah Roberts, Haijun Gong,
    *Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.*
-   * Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology (2025)*
+   *Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology (2025)*
 2. Wang, Yunge, Lingling Zhang, **Tong Si**, Sarah Roberts, Yuqi Wang, and Haijun Gong.
    *Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence from Time-Series scRNA-Seq Data.*
    *Current Issues in Molecular Biology 47, no. 6 (2025): 408.*
