@@ -66,7 +66,7 @@ permalink: /publications/
 ##  Ph.D. Dissertation
 
 12. **Tong Si**.  
-    *Missing Value Imputation and Change-Point Detection in High-Dimensional Data*.  
+    [*Missing Value Imputation and Change-Point Detection in High-Dimensional Data.*](https://www.proquest.com/openview/62ab9d68d7cf4374aa6754084f2f5b55/1?pq-origsite=gscholar&cbl=18750&diss=y)  
     Ph.D. Dissertation, Saint Louis University (2024).
 
 ---
