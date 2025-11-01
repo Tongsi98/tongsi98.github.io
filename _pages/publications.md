@@ -7,47 +7,44 @@ permalink: /publications/
 ##  Peer-Reviewed Papers
 
 1. Lingling Zhang, **Tong Si**, Lucas Koch, Haijun Gong.  
-   *Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.*  
+   [*Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.*](https://dl.acm.org/)  
    *Proceedings of the 12th International Conference on Bioinformatics Research and Applications (ICBRA)* (in press, 2025).
    
 2. Graham Bishop, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong.  
-   *tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.*  
-   *Bioinformatics Advances* (2025): vbaf225.  
+   [*tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.*](https://doi.org/10.1093/bioadv/vbaf225)  
+   *Bioinformatics Advances* (2025): vbaf225.
 
 3. Lingling Zhang, Yunge Wang, **Tong Si**, Lucas Koch, Sarah Roberts, Haijun Gong.  
-   *Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.*  
-   *Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology* (2025).  
+   [*Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.*](https://ieeexplore.ieee.org/Xplore/home.jsp)  
+   *Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology* (2025).
 
 4. Yunge Wang, Lingling Zhang, **Tong Si**, Sarah Roberts, Yuqi Wang, and Haijun Gong.  
-   *Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence from Time-Series scRNA-Seq Data.*  
-   *Current Issues in Molecular Biology* 47(6): 408 (2025).  
-   
+   [*Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence from Time-Series scRNA-Seq Data.*](https://doi.org/10.3390/cimb47060408)  
+   *Current Issues in Molecular Biology* 47(6): 408 (2025).
+
 5. Zhongyuan Zhao, Peng Zou, Yuan Fang, **Tong Si**, Bofang Yi, Tao Zhang.  
-   *Machine Learning Approaches for Assessing Medication Transfer to Human Breast Milk*.  
+   [*Machine Learning Approaches for Assessing Medication Transfer to Human Breast Milk.*](https://link.springer.com/article/10.1007/s10928-025-09972-9)  
    *Journal of Pharmacokinetics and Pharmacodynamics*, 52:25 (2025).
 
 6. Wen-Shan Liu, **Tong Si**, Aldas Kriauciunas, Marcus Snell, Haijun Gong.  
-   *Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data*.  
+   [*Bidirectional f-Divergence-Based Deep Generative Method for Imputing Missing Values in Time Series Data.*](https://www.mdpi.com/2571-905X/8/1/7)  
    *Stats*, 8(1):7 (2025).
 
 7. Yunge Wang, Lingling Zhang, **Tong Si**, Graham Bishop, Haijun Gong.  
-   *Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence*.  
+   [*Anomaly Detection in High-Dimensional Time Series Data With a Scaled Bregman Divergence.*](https://www.mdpi.com/1999-4893/18/2/62)  
    *Algorithms*, 18(2):62 (2025).
 
 8. **Tong Si**, Yunge Wang, Lingling Zhang, Evan Richmond, Tae-Hyuk Ahn, Haijun Gong.  
-   *Multivariate Time Series Change-Point Detection with a Novel Pearson-like Scaled Bregman Divergence*.  
-   *Stats*, 7(2): 462–480 (2024).  
-   [Link](https://www.mdpi.com/2571-905X/7/2/28)
+   [*Multivariate Time Series Change-Point Detection with a Novel Pearson-like Scaled Bregman Divergence.*](https://www.mdpi.com/2571-905X/7/2/28)  
+   *Stats*, 7(2): 462–480 (2024).
 
 9. **Tong Si**, Zackary Hopkins, John Yanev, Jie Hou, Haijun Gong.  
-   *A novel f-divergence based generative adversarial imputation method for scRNA-seq data analysis*.  
-   *PLOS ONE*, 18(11): e0292792 (2023).  
-   [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292792)
+   [*A novel f-divergence based generative adversarial imputation method for scRNA-seq data analysis.*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292792)  
+   *PLOS ONE*, 18(11): e0292792 (2023).
 
 10. Helen Richards, Yunge Wang, **Tong Si**, Hao Zhang, Haijun Gong.  
-   *Intelligent Learning and Verification of Biological Networks*.  
-   *Advances in Artificial Intelligence, Computation, and Data Science* (2021): 3–28.
-
+    [*Intelligent Learning and Verification of Biological Networks.*](https://www.springerprofessional.de/en/advances-in-artificial-intelligence-computation-and-data-science/19354328)  
+    *Advances in Artificial Intelligence, Computation, and Data Science* (2021): 3–28.
 ---
 
 ##  Peer-Reviewed Abstracts
