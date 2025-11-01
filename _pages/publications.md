@@ -6,7 +6,7 @@ permalink: /publications/
 
 ##  Peer-Reviewed Journal Papers
 
-1.Bishop, Graham, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong. 
+1. Bishop, Graham, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong. 
   *tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.* 
   *Bioinformatics Advances (2025):vbaf225.*
   
