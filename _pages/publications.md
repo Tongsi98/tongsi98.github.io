@@ -10,7 +10,7 @@ permalink: /publications/
    *Gene Regulatory Network Inference from Pseudotime-Ordered scRNA-seq Data via Time-Lagged Divergence Measures.*  
    *Proceedings of the 12th International Conference on Bioinformatics Research and Applications (ICBRA)* (in press, 2025).
    
-2. Bishop, Graham, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong.  
+2. Graham Bishop, **Tong Si**, Isabelle Luebbert, Noor Al-Hammadi, and Haijun Gong.  
    *tBN-CSDI: A time-varying blue noise-based diffusion model for time series imputation.*  
    *Bioinformatics Advances* (2025): vbaf225.  
 
@@ -18,7 +18,7 @@ permalink: /publications/
    *Time-varying Gene Regulatory Networks Inference Using KL Divergence From Single Cell Data.*  
    *Proceedings of 17th International Conference on Bioinformatics and Biomedical Technology* (2025).  
 
-4. Wang, Yunge, Lingling Zhang, **Tong Si**, Sarah Roberts, Yuqi Wang, and Haijun Gong.  
+4. Yunge Wang, Lingling Zhang, **Tong Si**, Sarah Roberts, Yuqi Wang, and Haijun Gong.  
    *Reconstructing Dynamic Gene Regulatory Networks Using f-Divergence from Time-Series scRNA-Seq Data.*  
    *Current Issues in Molecular Biology* 47(6): 408 (2025).  
    
